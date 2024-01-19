@@ -1,0 +1,32 @@
+
+state={
+	id=677
+	name="STATE_677"
+
+	history={
+		
+		owner = OSY
+		victory_points = {
+			12473 5 
+		}
+		
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = SYR
+		add_core_of = OSY
+
+	}
+
+	provinces={
+		7671 12473 13356 13357 13355 13354
+	}
+	manpower=900000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

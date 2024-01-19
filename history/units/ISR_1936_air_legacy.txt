@@ -1,0 +1,17 @@
+﻿
+
+air_wings = {
+	### Israeli Air Force ###
+	896 = {
+		# 1st Air Group -- P-6
+		fighter_equipment_0 =  {
+			owner = "ISR" 
+			amount = 80
+		}
+		# 2nd, 3rd Air Groups -- SBU Corsair
+		CAS_equipment_1 =  {
+			owner = "ISR" 
+			amount = 40
+		}
+	}
+}

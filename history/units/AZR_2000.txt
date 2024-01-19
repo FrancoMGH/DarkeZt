@@ -1,0 +1,143 @@
+﻿##### Division Templates #####
+division_template = {
+	name = "Tüfeng Divizyası"			# Rifle Division
+	division_names_group = AZR_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	
+	}
+	support = {
+		#recon = { x = 0 y = 0 } 		# Recon bn had 16 L tanks, 10 ACs, 1x mot inf co #Eng and recon removed and they seem rather OP. Could revisit if balance changes
+		#engineer = { x = 0 y = 1 } 	# (semi-mot) Engineer bn
+		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 1x 152mm bn + 2x 122mm bn
+	}
+}
+
+division_template = {
+	name = "Dağ Briqadası"		# Mountain Division
+	division_names_group = AZR_MTN_01
+
+	regiments = {
+		mountaineers = { x = 0 y = 0 }	
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }	
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+		
+	}
+	support = {
+		# Engineer bn
+		artillery = { x = 0 y = 0 } 	# Heavy Arty Regiment had 2x 122mm bn
+	}
+}
+
+division_template = {
+	name = "Motorlu Tüfeng Briqada"		# Motor Rifle Division
+	division_names_group = AZR_MOT_01
+											# Note: only represents Moscow Proletariat Division in 1936; after 1938-40, Motor Rifle Divisions had +1 mot regiment (3 bns) 
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		motorized = { x = 1 y = 0 }
+		motorized = { x = 1 y = 1 }
+	}
+	support = {
+		#recon = { x = 0 y = 0 } 		# Recon bn had 16x L tanks, 45 ACs #Eng and recon removed and they seem rather OP. Could revisit if balance changes 
+		#engineer = { x = 0 y = 1 } 	# (mot) Engineer bn
+	}
+}
+
+division_template = {
+	name = "Süvari Diviziyası" 	# Cavalry Division
+	division_names_group = AZR_CAV_01
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+}
+
+
+
+units = {
+division= {	# "94ya Tüfeng Divizyası"		
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 4473
+		division_template = "Tüfeng Divizyası"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SOV" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}	
+division= {	# "78ya Tüfeng Divizyası"		
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 7661
+		division_template = "Tüfeng Divizyası"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SOV" } }
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.5
+
+	}	
+	division= {	# "77ya 'Azerbaidzhan.' Gornostrelk. Div."		
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 11674
+		division_template = "Dağ Briqadası"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SOV" } }
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.85
+
+	}		
+	division= {	# "76ya 'Armyanskaya' Gornostrelk. Div."		
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 1467
+		division_template = "Tüfeng Divizyası"
+		force_equipment_variants = { infantry_equipment_0 = { owner = "SOV" } }
+		start_experience_factor = 0.2
+		start_equipment_factor = 0.85
+
+	}
+
+
+
+		division= {	# "76ya 'Armyanskaya' Gornostrelk. Div."		
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 6997 
+		division_template = "Motorlu Tüfeng Briqada"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+
+	
+	
+	
+
+}
+
+
+

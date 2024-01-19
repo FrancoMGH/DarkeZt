@@ -1,0 +1,34 @@
+﻿
+
+##### Wojska Lotnicze i Obrony Powietrzne #####
+air_wings = {
+	226 = { 
+		fighter_equipment_0 =  { owner = "POL" amount = 45 }
+	}
+	221 = { 
+		fighter_equipment_0 =  {
+			owner = "POL" 
+			amount = 30
+		}
+		CAS_equipment_1 =  {
+			owner = "POL" 
+			amount = 20
+		}
+	}
+	202 = { 
+		# 20th Pursuit Group 
+		fighter_equipment_0 =  {
+			owner = "USA" 
+			amount = 10
+		}
+		# 3rd Attack Group 
+		CAS_equipment_1 = {
+			owner = "USA" 
+			amount = 20
+		}
+	}
+}
+
+#########################
+## STARTING PRODUCTION ##
+#########################

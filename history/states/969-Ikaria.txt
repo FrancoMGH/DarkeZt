@@ -1,0 +1,26 @@
+
+state={
+	id=969
+	name="Beeqa Valley"
+
+	history={
+		owner = LEB
+		buildings = {
+			infrastructure = 2
+		
+
+		}
+		
+		add_core_of = LEB
+		add_core_of = SYR
+		add_core_of = OSY
+	}
+
+	provinces={
+		11919 11984 
+	}
+	manpower=104000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

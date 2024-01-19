@@ -1,0 +1,41 @@
+
+state={
+	id=454
+	name="Jerusalem"
+
+	history={
+		owner = ISR
+		buildings = {
+			infrastructure = 3
+			state_city = 1
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 1
+			air_base = 5
+
+			1015 = {
+				naval_base = 2
+
+			}
+
+		}
+
+		victory_points = {
+			13277 25 
+		}
+		victory_points = {
+			1015 3
+		}
+		add_core_of = ISR
+		add_core_of = PAL
+
+	}
+
+	provinces={
+		1015 7176 11970 13274 13275 13277 13299 13300 
+	}
+	manpower=613142
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

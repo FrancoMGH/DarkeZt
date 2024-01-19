@@ -7,8 +7,6 @@ set_technology = {
 
 set_convoys = 20
 
-1939.1.1 = {
-	
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -50,11 +48,11 @@ set_convoys = 20
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
-}
+
 
 set_politics = {
 	ruling_party = fascism
-	last_election = "1936.1.1"
+	last_election = "2023.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }

@@ -1,0 +1,35 @@
+﻿
+
+##### Wojska Lotnicze i Obrony Powietrzne #####
+air_wings = {
+	226 = { 
+		small_plane_airframe_0 =  { owner = "POL" amount = 45 version_name = "PZL P.11" }
+	}
+	221 = { 
+		small_plane_airframe_0 =  {
+			owner = "POL" 
+			amount = 30
+			version_name = "PZL P.11"
+		}
+		small_plane_cas_airframe_1 =  {
+			owner = "POL" 
+			amount = 20
+			version_name = "PZL P.23"
+		}
+	}
+	202 = { 
+		# 20th Pursuit Group 
+		small_plane_airframe_0 =  {
+			owner = "USA" 
+			amount = 10
+			version_name = "P-26A"
+		}
+		# 3rd Attack Group 
+		small_plane_cas_airframe_0 = {
+			owner = "USA" 
+			amount = 20
+			version_name = "A-12"
+		}
+	}
+}
+

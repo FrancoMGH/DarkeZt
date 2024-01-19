@@ -1,0 +1,223 @@
+﻿l_english:
+ ISR_general_motors:0 "General Motors"+
+ isr_boom_desc:0 "Jews escaping from the fascist German government take refuge in the new state of Israel. It means new business and labor force for the state of Israel. §RThis idea will end with the fall of fascism in the German state§!"
+ ISR_english_electric:0 "English Electric"
+ tmodern_category:0 "Diplomatic Actions"
+ tmodern_category_desc:0 "We can take some actions."
+ CIN_guerilla_tactics:0 "Guerilla Warfare"
+ CIN_irregular_military1:0 "Irregular Military"
+ CIN_irregular_military2:0 "Partially Organized Military"
+ CIN_irregular_military3:0 "Organized Military Forces"
+ CIN_mountain_warriors:0 "Warriors of Mountains"
+ UKR_kherson_push:0 "Kharkov Push"
+ UKR_kherson_push_desc:0 "We unexpectedly pushed the Russians out of Kharkov and regained control. After this move, our army began to break through the Russian fronts with great confidence. May the victory of Kharkov, symbolizing this success, bring us permanent victory! §R If we lose Kharkov this effect will be deleted §! "
+ UKR_surrender:0 "§R Unconditional Surrender §!"
+ UKR_request_help_LON:0 "§G Request Help From League of Nations §!"
+ buy_help_ukraine_tr:0 "§G Help Ukraine §!"
+ UKR_guarantee_blr:0 "Guarantee Belarusian Neutrality"
+ buy_ask_syria:0 "Unite With Our Old Pals"
+ buy_ask_libya:0 "Invasion of Libya Again"
+ CIN_war_tactics:0 "Organize Chechen-Ingush Soldiers"
+ CIN_war_tactics_desc:0 "We must command our irregular forces more efficient and embrace the guerilla fight style."
+ 
+ CIN_army_reform:0 "Gain Order In the Military"
+ CIN_army_reform_desc:0 "We must quickly organize our forces."
+ 
+ CIN_organize_military:0 "Reform Chechen-Ingush Military"
+ CIN_organize_military_desc:0 "Create new military forces department."
+ 
+ CIN_mountanieer_people:0 "Warriors of Mountains"
+ CIN_mountanieer_people_desc:0 ""
+ CIN_grozny_rifle_factory:0 "Found the Grozny Rifle Factory"
+ CIN_grozny_rifle_factory_desc:0 ""
+ CIN_kick_start_industry:0 "Kick Start the War Industry"
+ CIN_kick_start_industry_desc:0 ""
+ 
+ CIN_expand_agriculture_industry:0 "Expand the Agriculture Industry"
+ CIN_expand_agriculture_industry_desc:0 ""
+ 
+ CIN_secure_the_new_nation:0 "Secure Our Precious Nation"
+ CIN_secure_the_new_nation_desc:0 ""
+ 
+ CIN_rebuild_the_nation:0 "Rebuild Our Chechen-Ingush Nation"
+ CIN_rebuild_the_nation_desc:0 ""
+ 
+ CIN_functioning_state:0 "Well-Functioned Country"
+ CIN_functioning_state_desc:0 ""
+ 
+ konigsberg_ceded:0 "Königsberg Ceded to Germans"
+ MNT_neutrality_party:0 "Royalists"
+ MNT_neutrality_party_long:0 "Royalists"
+ MNT_krsto_:0 "Krsto Popović"
+ papalstate_category:0 " §YPapacy Managament§ "
+ papalstate_category_desc:0 "the Throne of Saint Peter"
+ form_papal:0 "Proclaim Papal States"
+ form_italy:0 "Unite Italy Under the Papacy"
+ papal_volunteers:0 "Call Foreign Volunteers §Y"Papal Zouaves"§"
+ swissguards:0 "Ask for §YSwiss Guards§"
+ 
+ POL_german_state_management_category:0 "German Majority Management"
+ POL_german_state_management:0 "These States Has Great German Opposition"
+ crush_german_opposition:0 "Police Crackdown At [FROM.GetName]"
+ germanpop:0 "German Opposition"
+ big_defeat:0 "National Catastrophe"
+ polgermans:0 "Unrest Among Poland Germans"
+ 
+ buy_rom_ukr:0 "Take Romanian Lands Back"
+ invade_china:0 "Take Back the Uyghur Lands"
+ 
+ 
+ TUR_cyprus_category:0 "§G[NCY.GetNameDEF]§! Management"
+ TUR_cyprus_category_desc:0 "We can influence the Turkish Cyprus Politics and secure our nation's desire. After all, those lands are part of our republic."
+ buy_ncy_remove_tsk:0 "Elections in the [NCY.GetNameDEF]"
+ buy_ncy:0 "Integrate the [NCY.GetNameDEF]"
+ sell_ncy:0 "Support the Federal Government of Cyprus"
+ turkish_cyp:0 "Unite the Cyprus island with name of the Turkish Cyprus"
+ buy_mobilize_island:0 "Reorganize and arm the Turkish Cypriots"
+ buy_mobilize_island2:0 "Populate the Island with Anatolian Turks"
+ 
+
+ 
+ italian_officers:0 "Italian Military Advisors"
+ AUS_annexed:0 "Austria Annexed"
+ Claim_Germany:0 "Claim German Rule"
+ Wilhelm_III_Throne:0 "Grant Full Leadership to the Wilhelm III"
+ PRE_the_election_of_1936:0 "Südwestafrika Elections of 1936"
+ 
+ toykan.1.t:0 "Bulgaria Send Ultimatom to Us"
+ toykan.1.d:0 "Bulgaria wants the lands they lost with the Treaty of Neu-sur-Seine back from us after the annexation of Macedonia."
+ toykan.1.a:0 "We can't afford war right now."
+ toykan.1.b:0 "Let them come, if they dare."
+ 
+ toykan.2.t:0 "Serbia Surrenders!"
+ toykan.2.d:0 "They agreed to give us back the lands we lost with the treaty."
+ toykan.2.a:0 "They fear from us."
+ toykan.2.b:0 "We want more of it."
+ 
+ toykan.3.t:0 "Serbia Rejects!"
+ toykan.3.d:0 "Serbia did not agree to give us back the lands we lost with the Agreement."
+ toykan.3.a:0 "How dare you!"
+ toykan.3.b:0 "We can't afford war right now..."
+ 
+ toykan.4.t:0 "Southern Tyrol Crisis!"
+ toykan.4.d:0 "The Germans said that we were holding South Tyrol unfairly, citing the reason we broke the alliance in World War I and hit them from behind. They stated that if we do not give them back those lands we have won with blood, this situation will be determined by blood again."
+ toykan.4.a:0 "Who is betraying right now?"
+ toykan.4.b:0 "I thought we got along well"
+ 
+ toykan.5.t:0 "Italy Refuses to Give Back Southern Tyrol"
+ toykan.5.d:0 "They seem to have forgotten their treachery in World War I. They said that they would defend their stolen German-Austrian lands. What a pity"
+ toykan.5.a:0 "I thought we got along well,  but now your people will be live under the German rule."
+ toykan.5.b:0 "Forget it."
+ 
+ toykan.6.t:0 "Monarchism is Back in Fashion"
+ toykan.6.d:0 "Hitler is no more, country back to normal. Even Wilhelm II invited to throne. We can go back to our homes."
+ toykan.6.a:0 "Long live German Empire!"
+ toykan.6.b:0 "Everyone can go back to homes, we have other plans."
+ 
+ toykan.7.t:0 "Südwestafrika Returns!"
+ toykan.7.d:0 "After the defeat of Hitler, the German people in exile in Namibia rejoice to return to their homeland! Although other states do not take kindly to this event, we are protecting human rights. At least we protected them from fascism."
+ toykan.7.a:0 "Long Live German Empire!"
+
+ toykan.8.t:0 "German Parliament Established!"
+ toykan.8.d:0 "Parliament was formed, the people gathered in Windhoek to elect their first government. Who will we choose for the continuation of our government in exile?"
+ toykan.8.a:0 "We are here for democracy, Otto Wels!"
+ toykan.8.b:0 "We are here for German tradition, Wilhelm II!"
+ toykan.8.c:0 "Socialist union is the way, Ernst Thalmann!"
+ toykan.8.e:0 "Preserve the military government, we are not secure here."
+ 
+ toykan.9.t:0 "Namibian Seperatist Movement Formed"
+ toykan.9.d:0 "Parliament was formed, the people gathered in Windhoek to elect their first government. Who will we choose for the continuation of our government in exile?"
+ toykan.9.a:0 "We are here for democracy, Otto Wels!"
+
+ toykan.15.t:0 "League of Nations Members Accepted the Help Request"
+ toykan.15.d:0 "Parliament was gathered, they accepted the help to our nation against Soviet Invasion."
+ toykan.15.a:0 "We are here for save democracy pals!"
+ 
+ toykan.16.t:0 "League of Nations Members Refused the Help Request"
+ toykan.16.d:0 "Parliament was gathered, they refused the sending help to our nation. We are on our own."
+ toykan.16.a:0 "Democracy fails in Europe again."
+ 
+ toykan.17.t:0 "Turkey Sends Help"
+ toykan.17.d:0 "Turkish Government secretly sends help to our fight. Most of the cargo planes and cargo ships arrived to our bases."
+ toykan.17.a:0 "We will never forget this."
+ 
+ toykan.18.t:0 "Ukraine Wants Promises From Us"
+ toykan.18.d:0 "Ukraine wants to ensure that we remain neutral in this war. In the future, it guarantees that we will fight side by side against possible invasions. What will we answer?"
+ toykan.18.a:0 "Accept!"
+ toykan.18.b:0 "Reject!"
+ 
+ toykan.19.t:0 "Belarusia Rejects Our Offer"
+ toykan.19.d:0 "Belarus rejected this agreement. They said that signing this agreement was an opportunity to attract Russia's attention."
+ toykan.19.a:0 "Alright"
+ 
+ news.634.t:0 "Crisis in Macedonia!"
+ news.634.desc:0 "Seeing this as a threat after Serbia's annexation of Macedonia, Bulgaria accused Serbia of threatening its national security. The two sides mobilized against each other and took sides at the borders. The foreign ministers of the two countries will meet and try to reach an agreement."
+ news.634.a:0 "Ok"
+ 
+ news.700.t:0 "South Tyrol Crisis"
+ news.700.desc:0 "After Germany's annexation of Austria, Hitler, who set his eyes on the Germans living in South Tyrol, sent a very harsh ultimatum to Italy against the unjust and treacherous capture of those lands by Italy after the first world war. It stabbed a great dagger in the friendship and closeness of these two countries to each other. Everyone is waiting for war."
+ news.700.a:0 "Ok"
+ 
+ news.701.t:0 "Italy Surrenders Southern Tyrol"
+ news.701.desc:0 "Today South Tyrol is officially attached to the German Reich. Thanks to Hitler's confidence in his own country, Italy could do nothing but surrender. Mussolini, on the other hand, garnered a great reaction from the people and lost the confidence of his people to a large extent. It seems that Italy will undergo a major change in its plans for the future after the ties between Germany and Italy are severed."
+ news.701.a:0 "Ok"
+ 
+ news.702.t:0 "Egypt and Syria's Unity Movement"
+ news.702.desc:0 "It is hoped that this development, which aims at Arab unity against the tense world and the dangers in the Middle East, will benefit the people of both countries. These two peoples, who lived with each other in the Mamluk times and in the time of Muhammet Ali Pasha, think that this union will be of great benefit in this period as well. The world is eagerly awaiting what the results will be."
+ news.702.a:0 "Ok"
+ 
+ 
+ news.635.t:0 "Macedonian Crisis Averted"
+ news.635.desc:0 "The crisis between Serbia and Bulgaria was successfully resolved. Both sides ended the tension and reached an agreement. Peace in the Balkans continues for a few more days."
+ news.635.a:0 "Ok"
+ 
+ news.636.t:0 "[SOV.GetNameDEF] Threaten Belarus"
+ news.636.desc:0 "Trying to secure itself after the dangers that developed in the West, the Soviet Union this time set its sights on Belarus. The Soviet Union, which wanted to peacefully unite with Belarus, stated that this would be in the interests of both countries. The world has its eye on the fast-growing Red danger."
+ news.636.a:0 "Ok"
+ 
+ BUL_demand_macedonia:0 "Revoke the Treaty of Neuilly-sur-Seine"
+ 
+ buy_austria:0 "Integrate the Austria"
+ buy_czech:0 "Integrate the Czechs"
+ buy_ask_war_israel:0 "Make Plan for Israel Occupation"
+ buy_israel:0 "Remove the Danger from Holy Lands"
+ buy_ask_war_korea:0 "Make Plan for Korean Liberation"
+ buy_korea:0 "Start Mass Human Assault on Korea!"
+ buy_ask_japan:0 "Seek Support From Japan"
+ great_armenia:0 "Our Destiny"
+ help_korea:0 "Stand for South Korea"
+ help_nkorea:0 "Stand for North Korea"
+ ARM_ask_sov_for_help:0 "Ask for Russian Support"
+ buy_kaz:0 "Take the Opportunity on Central Asia"
+ ARM_first_conflict:0 "First Conflict"
+ ARM_second_conflict:0 "Second Conflict"
+ refugees_in:0 "Migrant Wave"
+ refugees_out:0 "Migration"
+ new_indust:0 "Developing City"
+ TUR_recall_ismet_to_active_service:0 "Recall Ismet Pasha To Active Service"
+ anti_fascism_government:0 "Enemies of NSDAP"
+ german_government:0 "German Ideals"
+ PRE_idea_wilhelm_iii:0 "Wilhelm III"
+ donations_from_supporters:0 "Foreign Supported Industry"
+ ISR_donations_from_supporters:0 "Foreign Supported Industry"
+ isr_womans_in_military:0 "Equal Recruitment"
+ ISR_send_women_back:0 "Ban Equal Recruitment"
+ ISR_kickstart_rubber_production:0 "Kickstart the Rubber Industry"
+ tykns_effects:0 "Industry & Extras"
+ ttmodern_advisors:0 "Additional Laws & Government"
+ tmodern_advisors:0 "Ministers"
+ health_budget:0 "Public Health Budget"
+ research_budget:0 "Science and Education Budget"
+ military_exercises:0 "Ministry of Armed Forces"
+ 
+ 
+ 
+ buy_mol:0 "Unite Romania"
+ buy_golan:0 "Take the Opportunity: [881.GetName]"
+ buy_donitz:0 "Rule the Waves"
+ buy_turkestan:0 "Form Turkestan"
+ 
+ 
+
+ GER_tyrol_demanded:0 "§RDemanded Tyrol From Italy§!"
+ GER_ita_will_not_ally:0 "§RThis move will end the friendship between us and Italy.§!"
