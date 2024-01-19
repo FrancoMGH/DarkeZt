@@ -1,0 +1,21 @@
+﻿
+
+air_wings = {
+	### Israeli Air Force ###
+	896 = {
+		# 1st Air Group -- P-6
+		small_plane_airframe_0 =  {
+			owner = "ISR" 
+			amount = 80
+			creator = "USA"
+			version_name = "P-6"
+		}
+		# 2nd, 3rd Air Groups -- A-17
+		small_plane_cas_airframe_1 =  {
+			owner = "ISR" 
+			amount = 40
+			creator = "USA"
+			version_name = "A-17"
+		}
+	}
+}
